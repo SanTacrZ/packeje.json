@@ -1,6 +1,5 @@
- {
-  "name": "aprendiendo node.js",
-  "author": "SanTacrZ",
+  "name": "fcc-learn-npm-package-json",
+  "author": "foobar",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -13,6 +12,6 @@
   },
   "repository": {
     "type": "git",
-    "url": https://github.com/SanTacrZ/packeje.json/blob/main/json
+    "url": "https://idontknow/todo.git"
   }
 }
